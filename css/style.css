@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  margin-left: 10%;
+}
+
+.booksContainer {
+  margin-left: 10%;
+}
